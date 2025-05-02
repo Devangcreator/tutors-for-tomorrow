@@ -43,6 +43,7 @@ h2{
 
 .about-us{
 	padding: 8px;
+	font-family: Poppins;
 }
 
 #fees{
@@ -76,6 +77,6 @@ th{
 
 /*extra small devices - (mobile phones)*/
 @media screen and (min-width: 600px){
-	/* Css rules*/
+	font-family: poppins;
 }
 
