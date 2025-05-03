@@ -4,6 +4,11 @@ html{
 	font-size: 16px;
 }
 
+h4{
+	padding: 15px;
+	font-size: 24%;
+}
+
  /*Small devices (tablets)*/
 @media screen and (min-width: 576px) {
 	/* Css rules */
