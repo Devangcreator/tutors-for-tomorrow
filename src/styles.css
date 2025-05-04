@@ -1,8 +1,6 @@
 html{
-	font-size: 16px;
+	font-size: 14px;
 }
-
-
 
 body{
 	background-color: #fcd303;
@@ -68,7 +66,9 @@ p{
 
 /*Small devices (tablets)*/
 @media screen and (min-width: 576px) {
-	/* Css rules */
+	html{
+		font-size: 38px;
+	}
  }
 
 /*Medium devices (laptops)*/
