@@ -1,24 +1,3 @@
-
- /*Small devices (tablets)*/
-@media screen and (min-width: 576px) {
-	/* Css rules */
- }
-
-/*Medium devices (laptops)*/
-@media screen and (min-width: 768px){
-	/* Css rules */
-}
-
-/* Large devices (Desktops) */
-@media screen and (min-width: 992px) {
-	/* Css rules */
-}
-
-/*Extra large devices (Large Desktops) */
-@media screen and (min-width: 1200px) {
-	/* Css rules */
-}
-
 body{
 	background-color: #fcd303;
 }
@@ -69,6 +48,44 @@ h2{
 	font-family: Poppins;
 }
 
+img{
+	margin-bottom: 50px;
+}
+
+p{
+	margin-bottom: 50px;
+}
+
+
+
+
+
+/*Small devices (tablets)*/
+@media screen and (min-width: 576px) {
+	/* Css rules */
+ }
+
+/*Medium devices (laptops)*/
+@media screen and (min-width: 768px){
+	/* Css rules */
+}
+
+/* Large devices (Desktops) */
+@media screen and (min-width: 992px) {
+	/* Css rules */
+}
+
+/*Extra large devices (Large Desktops) */
+@media screen and (min-width: 1200px) {
+	/* Css rules */
+}
+
+
+
+
+
+
+
 #fees{
 	width: 100%;
 	border: 1px solid black;
@@ -100,11 +117,5 @@ th{
 	font-size: 30;
 }
 
-img{
-	margin-bottom: 50px;
-}
 
-p{
-	margin-bottom: 50px;
-}
  
