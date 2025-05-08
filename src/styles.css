@@ -64,84 +64,9 @@ p{
 	margin-bottom: 50px;
 }
 
-
-
-
-
-/*Small devices (tablets)*/
-@media screen and (min-width: 576px) {
-	html{
-		font-size: 18px;
-	}
-
-	.teachers-image{
-		border-radius: 6px;
-	}
-
-	table{
-		font-size: 25px;
-		text-align: center;
-	}
-
-
- }
-
-/*Medium devices (laptops)*/
-@media screen and (min-width: 768px){
-	.teachers-image{
-		max-width: 964px;
-		max-height: 733px;
-		border-radius: 5px;
-	}
-
-	.result-image{
-		max-width: 964px;
-		max-height: 733px;
-		border-radius: 5px;
-	}
-
-	table{
-		font-size: 20px;
-	}
+table{
+	font-size: 30px;
 }
-
-/* Large devices (Desktops) */
-@media screen and (min-width: 992px) {
-	.teachers-image{
-		max-width: 976px;
-		max-height: 789px;
-	}
-
-	.result-image{
-		max-width: 976px;
-		max-height: 789px;
-		border-radius: 4px;
-	}
-}
-
-/*Extra large devices (Large Desktops) */
-@media screen and (min-width: 1200px) {
-	.teachers-image{
-		max-width: 1176px;
-		max-height: 789px;
-	}
-
-	.result-image{
-		max-width: 1176px;
-		max-height: 789px;
-		border-radius: 6px;
-	}
-
-	table{
-		font-size: 30px;
-	}
-}
-
-
-
-
-
-
 
 #fees{
 	width: 100%;
